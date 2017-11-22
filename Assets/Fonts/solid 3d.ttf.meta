@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 98b67770e6dae2247960a9f74d71a3d9
+timeCreated: 1511309770
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Solid 3d
+  fontNames:
+  - Solid 3d
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
